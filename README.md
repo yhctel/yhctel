@@ -4,7 +4,7 @@
     <li>🎓 Graduanda em Ciência da Computação</li>
     <li>🔎 Focada em Front-End</li>
     <li>📚 Aprendendo para ser Full-Stack</li>
-    <li>🎨Experiência em Design Gráfico e Web Design</li>
+    <li>🎨 Experiência em Design Gráfico e Web Design</li>
 </ul>
 
 
